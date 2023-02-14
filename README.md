@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arit950.
-- 🌱 I’m currently learning java 
+- 🌱 Front End Developer 
 - 📫 mail me on arit950@gmail.com
 - linked - https://www.linkedin.com/in/arit-das-a94458199
 
